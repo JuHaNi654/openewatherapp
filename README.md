@@ -2,7 +2,7 @@
 ### React project with openweathermap
 Small project with openweathermap api key and also trying to learn React Redux.
 In website you can search current date weather by writing city in the input text box and you need select temp to submit search.
-In History table it will save last 5 searched city and when it reach five citys then it will remove last from the list and add new to the top
+In History table it will save last 5 searched city and when it reach five citys then it will remove last from the list and add new to the top. Also when u click city from history it will set data to the input fields.
 
 
 ### Screenshot 1.
