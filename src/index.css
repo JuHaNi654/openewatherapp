@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /*https://pixabay.com/fi/photos/syksy-tausta-v%C3%A4ri-lehdet-kulta-83761/*/
+  background-image: url(./img/autum.jpg);
+  background-repeat: repeat;
+  background-size: 100%;
 }
 
 code {

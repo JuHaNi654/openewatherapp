@@ -1,0 +1,36 @@
+.temp-select-style {
+    width: 120px;
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: rgb(255, 254, 241);
+    transition: 0.25s ease;
+    cursor: pointer;
+}
+
+.temp-input-style {
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: rgb(255, 254, 241);
+    transition: 0.25s ease;
+    cursor: pointer;
+}
+.temp-input-style:hover, .temp-select-style:hover {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.label-text {
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.submit-button {
+    background-color: rgb(255, 255, 107);
+    color: black;
+    font-weight: 700;
+    border: none;
+}
+.submit-button:hover {
+    background-color: rgb(255, 178, 107);
+    color: black;
+}

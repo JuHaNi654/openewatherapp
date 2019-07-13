@@ -1,0 +1,58 @@
+.row-1 {
+    height: 80%;
+}
+.row-2 {
+    height: 20%;
+}
+.row-3 {
+    height: 50%;
+}
+
+.row-3 p {
+    width: 100%;
+    font-size: 25px;
+    font-weight: 600;
+    margin: auto;
+}
+
+
+.weather-temp {
+    position: relative;
+    height: 80%;
+}
+
+.asd {
+    width: 100%;
+}
+
+.asd h1 {
+    margin: 0;
+    font-size: 5em;
+}
+
+.asd p {
+    margin: 0;
+    font-size: 2em;
+}
+
+.icon-style {
+    margin: 0 auto;
+}
+
+.sub-temp-row {
+    height: 10%;
+}
+
+.sub-temp-row h3 {
+    font-size: 1.25em;
+    width: 100%;
+    padding: 10px;
+}
+
+.country-text {
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    font-size: 4em;
+}
